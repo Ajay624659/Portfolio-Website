@@ -130,6 +130,7 @@ ul {
   text-align: justify;
 }
 .sidebar-container {
+  width:90vw;
   display: flex;
   flex-wrap: wrap;
 }
