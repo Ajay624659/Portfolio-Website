@@ -136,7 +136,6 @@ ul {
 }
 .sidebar {
   /* display: flex; */
-  max-width: 44vw;
   min-width: 43vw;
   flex-wrap: wrap;
   border: 3px solid #baf46f;
