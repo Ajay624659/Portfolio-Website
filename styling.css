@@ -1,6 +1,7 @@
 /*styling.css*/
 * {
   box-sizing: border-box;
+  background-color:red;
 }
 body {
   font: Arial, Helvetica, sans-serif;
