@@ -1,7 +1,6 @@
 /*styling.css*/
 * {
   box-sizing: border-box;
-  background-color:red;
 }
 body {
   font: Arial, Helvetica, sans-serif;
@@ -136,7 +135,8 @@ ul {
 }
 .sidebar {
   /* display: flex; */
-  min-width: 43vw;
+  max-width: 40vw;
+  min-width:39vw;
   flex-wrap: wrap;
   border: 3px solid #baf46f;
   border-radius: 20px;
